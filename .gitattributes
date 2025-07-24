@@ -1,0 +1,6 @@
+*.go linguist-language=Go
+*.rs linguist-language=Rust  
+*.py linguist-language=Python
+main.go linguist-language=Go
+main.rs linguist-language=Rust
+main.py linguist-language=Python
