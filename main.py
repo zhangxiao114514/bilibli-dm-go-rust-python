@@ -509,7 +509,7 @@ class BiliBiliClient:
 # 使用示例
 async def main():
     # 请输入正确的直播间id
-    room_id = 1111111111
+    room_id = 1788064843
 
     # 创建客户端
     client = BiliBiliClient(room_id)
@@ -521,4 +521,5 @@ async def main():
     
 
 if __name__ == '__main__':
+
     asyncio.run(main())
